@@ -122,10 +122,8 @@ process.on("uncaughtException", (error) => {
 process.on("unhandledRejection", (error) => {
   console.error("Unhandled Rejection:", error);
 });
-
-// ===== Start server =====
-const port = process.env.PORT || 9000;
-
+// ===== Start the server =====
+const port = process.env.PORT || 5000;
 server.listen(port, () => {
   console.log(`Event Sphere app listening on port ${port}`);
 });

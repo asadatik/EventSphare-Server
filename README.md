@@ -9,15 +9,15 @@
 - **Password:** aaaaaa
 
 **Organizer Email and Password**
-- **Email:** organizer1@gmail.com
+- **Email:** organizer@gmail.com
 - **Password:** aaaaaa
 
 **Admin Email and Password**
-- **Email:** admin1@gmail.com
+- **Email:** admin@gmail.com
 - **Password:** aaaaaa
 
 ## Live Site URL
-Visit the live site at [EventSphere Live](https://event-sphere-bice.vercel.app/)
+Visit the live site at [EventSphere Live](https://eventsphare-server-psun.onrender.com)
 
 ## Features and Characteristics
 - **Role-Based Access Control:** 
@@ -85,11 +85,11 @@ Gift card purchase options and access to current promotions.
 1. **Clone the Repositories:**
     ```sh
     # Client Side:
-    git clone https://github.com/DeveloperImran1/EventSphere.git
+    git clone https://github.com/asadatik/EventSphere-Client
     cd EventSphere
 
     # Server Side:
-    git clone https://github.com/DeveloperImran1/EventSphare-Server.git
+    git clone https://github.com/asadatik/EventSphare-Server
     cd EventSphare-Server
     ```
 
@@ -114,7 +114,7 @@ Gift card purchase options and access to current promotions.
     ```
 
 ## Server Side Github Link
-[Client Code](https://github.com/DeveloperImran1/EventSphere)
+[Client Code](https://github.com/asadatik/EventSphare-Server)
 
 ## Dependencies
 

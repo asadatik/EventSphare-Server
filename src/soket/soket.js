@@ -9,7 +9,6 @@ const server = http.createServer(app);
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "http://localhost:3001",
   "https://event-sphere-bice.vercel.app",
   "https://event-sphere-ashen.vercel.app",
 ];

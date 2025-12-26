@@ -1,9 +1,10 @@
 {
   "name": "book-app",
   "version": "1.0.0",
-  "main": "./api/app.js",
+  "main": "api/app.js",               
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node api/app.js",      
+    "dev": "nodemon api/app.js",      
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
